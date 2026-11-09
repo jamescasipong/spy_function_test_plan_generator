@@ -1,0 +1,4 @@
+server/auth/
+server/cache/
+node_modules/
+.env
